@@ -12,13 +12,13 @@ const ContactUs = () => {
                         <div className="">
                             <h2 className="card-title text-warning">History</h2>
                             <p className="text-white">
-                                En una galaxia muy, muy lejana, se libraba una guerra entre la opresiva y tecnológicamente avanzada República Galáctica y los separatistas liderados por el Conde Dooku. En medio de este conflicto, un joven llamado Anakin Skywalker, dotado de habilidades extraordinarias en la Fuerza, es descubierto por el Maestro Jedi Qui-Gon Jinn. Convencido de su potencial, Qui-Gon lo lleva ante el Consejo Jedi en Coruscant, donde es entrenado por Obi-Wan Kenobi.
+                                In a galaxy far, far away, a war was being fought between the oppressive and technologically advanced Galactic Republic and the separatists led by Count Dooku. Amidst this conflict, a young man named Anakin Skywalker, gifted with extraordinary abilities in the Force, is discovered by Jedi Master Qui-Gon Jinn. Convinced of his potential, Qui-Gon brings him before the Jedi Council on Coruscant, where he is trained by Obi-Wan Kenobi.
                             </p>
                             <p className="text-white">
-                                Anakin, a pesar de su talento, lucha constantemente con sus propias emociones y deseos, especialmente su amor secreto por Padmé Amidala, la senadora de Naboo. Eventualmente, Anakin se convierte en el legendario Caballero Jedi, pero su destino se ve ensombrecido por la profecía de que él traerá equilibrio a la Fuerza, pero también podría caer en la oscuridad.
+                                Anakin, despite his talent, constantly struggles with his own emotions and desires, especially his secret love for Padmé Amidala, the Senator of Naboo. Eventually, Anakin becomes the legendary Jedi Knight, but his destiny is overshadowed by the prophecy that he will bring balance to the Force, though he could also fall into darkness.
                             </p>
                             <p className="text-white">
-                                La historia de Star Wars abarca generaciones, con épicas batallas espaciales, intrigas políticas, y una constante lucha entre el bien y el mal. Personajes icónicos como Darth Vader, Luke Skywalker, Leia Organa y muchos más, han dejado una huella indeleble en la cultura popular galáctica.
+                                The story of Star Wars spans generations, with epic space battles, political intrigues, and a constant struggle between good and evil. Iconic characters like Darth Vader, Luke Skywalker, Leia Organa, and many more have left an indelible mark on galactic popular culture.
                             </p>
 
                             <p className="card-title text-warning">
