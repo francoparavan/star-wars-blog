@@ -20,7 +20,6 @@ const ContactUs = () => {
                             <p className="text-white">
                                 The story of Star Wars spans generations, with epic space battles, political intrigues, and a constant struggle between good and evil. Iconic characters like Darth Vader, Luke Skywalker, Leia Organa, and many more have left an indelible mark on galactic popular culture.
                             </p>
-
                             <p className="card-title text-warning">
                                 ¡MADE THE FORCE BE WITH YOU!
                             </p>
